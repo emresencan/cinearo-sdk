@@ -1,0 +1,8 @@
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Verified SHA-256 integrity pins, not API credentials"
+paths = ['''(^|/)SHA256\.json$''']
+regexes = ['''(?i)(?:API-Reason-Review\.md|api-import-review\.json)": "[a-f0-9]{64}"''']
+condition = "AND"
