@@ -1,0 +1,385 @@
+[
+  {
+    "name": "aom",
+    "licenseFiles": [
+      "licenses/aom/AUTHORS",
+      "licenses/aom/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "dav1d",
+    "licenseFiles": [
+      "licenses/dav1d/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "ebml",
+    "licenseFiles": [
+      "licenses/ebml/LICENSE.LGPL"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "ffmpeg",
+    "licenseFiles": [
+      "licenses/ffmpeg/COPYING.GPLv2",
+      "licenses/ffmpeg/COPYING.GPLv3",
+      "licenses/ffmpeg/COPYING.LGPLv2.1",
+      "licenses/ffmpeg/COPYING.LGPLv3",
+      "licenses/ffmpeg/LICENSE.md",
+      "licenses/ffmpeg/doc/authors.texi"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "flac",
+    "licenseFiles": [
+      "licenses/flac/AUTHORS",
+      "licenses/flac/COPYING.FDL",
+      "licenses/flac/COPYING.GPL",
+      "licenses/flac/COPYING.LGPL",
+      "licenses/flac/COPYING.Xiph"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "freetype",
+    "licenseFiles": [
+      "licenses/freetype/LICENSE.TXT",
+      "licenses/freetype/docs/FTL.TXT"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "fribidi",
+    "licenseFiles": [
+      "licenses/fribidi/AUTHORS",
+      "licenses/fribidi/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "gcrypt",
+    "licenseFiles": [
+      "licenses/gcrypt/AUTHORS",
+      "licenses/gcrypt/COPYING",
+      "licenses/gcrypt/COPYING.LIB"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "gsm",
+    "licenseFiles": [
+      "licenses/gsm/COPYRIGHT"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "harfbuzz",
+    "licenseFiles": [
+      "licenses/harfbuzz/AUTHORS",
+      "licenses/harfbuzz/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "lame",
+    "licenseFiles": [
+      "licenses/lame/COPYING",
+      "licenses/lame/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libarchive",
+    "licenseFiles": [
+      "licenses/libarchive/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libass",
+    "licenseFiles": [
+      "licenses/libass/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libdsm",
+    "licenseFiles": [
+      "licenses/libdsm/AUTHORS",
+      "licenses/libdsm/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libdvbpsi",
+    "licenseFiles": [
+      "licenses/libdvbpsi/AUTHORS",
+      "licenses/libdvbpsi/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libebur128",
+    "licenseFiles": [
+      "licenses/libebur128/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libgpg-error",
+    "licenseFiles": [
+      "licenses/libgpg-error/AUTHORS",
+      "licenses/libgpg-error/COPYING",
+      "licenses/libgpg-error/COPYING.LIB"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libmodplug",
+    "licenseFiles": [
+      "licenses/libmodplug/AUTHORS",
+      "licenses/libmodplug/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libogg",
+    "licenseFiles": [
+      "licenses/libogg/AUTHORS",
+      "licenses/libogg/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libplacebo",
+    "licenseFiles": [
+      "licenses/libplacebo/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "librist",
+    "licenseFiles": [
+      "licenses/librist/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libshout",
+    "licenseFiles": [
+      "licenses/libshout/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libtasn1",
+    "licenseFiles": [
+      "licenses/libtasn1/AUTHORS",
+      "licenses/libtasn1/COPYING",
+      "licenses/libtasn1/COPYING.LESSERv2"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libtheora",
+    "licenseFiles": [
+      "licenses/libtheora/AUTHORS",
+      "licenses/libtheora/COPYING",
+      "licenses/libtheora/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libvorbis",
+    "licenseFiles": [
+      "licenses/libvorbis/AUTHORS",
+      "licenses/libvorbis/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libvpx",
+    "licenseFiles": [
+      "licenses/libvpx/AUTHORS",
+      "licenses/libvpx/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "libxml2",
+    "licenseFiles": [
+      "licenses/libxml2/Copyright"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "live555",
+    "licenseFiles": [
+      "licenses/live555/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "matroska",
+    "licenseFiles": [
+      "licenses/matroska/LICENSE.LGPL"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "mpg123",
+    "licenseFiles": [
+      "licenses/mpg123/AUTHORS",
+      "licenses/mpg123/COPYING",
+      "licenses/mpg123/doc/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "mysofa",
+    "licenseFiles": [
+      "licenses/mysofa/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "nfs",
+    "licenseFiles": [
+      "licenses/nfs/COPYING",
+      "licenses/nfs/LICENCE-BSD.txt",
+      "licenses/nfs/LICENCE-GPL-3.txt",
+      "licenses/nfs/LICENCE-LGPL-2.1.txt"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "openjpeg",
+    "licenseFiles": [
+      "licenses/openjpeg/AUTHORS.md",
+      "licenses/openjpeg/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "opus",
+    "licenseFiles": [
+      "licenses/opus/AUTHORS",
+      "licenses/opus/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "png",
+    "licenseFiles": [
+      "licenses/png/AUTHORS",
+      "licenses/png/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "protobuf",
+    "licenseFiles": [
+      "licenses/protobuf/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "smb2",
+    "licenseFiles": [
+      "licenses/smb2/COPYING",
+      "licenses/smb2/LICENCE-LGPL-2.1.txt"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "soxr",
+    "licenseFiles": [
+      "licenses/soxr/AUTHORS",
+      "licenses/soxr/COPYING.LGPL",
+      "licenses/soxr/LICENCE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "spatialaudio",
+    "licenseFiles": [
+      "licenses/spatialaudio/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "speex",
+    "licenseFiles": [
+      "licenses/speex/AUTHORS",
+      "licenses/speex/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "speexdsp",
+    "licenseFiles": [
+      "licenses/speexdsp/AUTHORS",
+      "licenses/speexdsp/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "ssh2",
+    "licenseFiles": [
+      "licenses/ssh2/COPYING",
+      "licenses/ssh2/docs/AUTHORS"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "taglib",
+    "licenseFiles": [
+      "licenses/taglib/AUTHORS",
+      "licenses/taglib/COPYING.LGPL",
+      "licenses/taglib/COPYING.MPL"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "twolame",
+    "licenseFiles": [
+      "licenses/twolame/AUTHORS",
+      "licenses/twolame/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "upnp",
+    "licenseFiles": [
+      "licenses/upnp/COPYING"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "utfcpp",
+    "licenseFiles": [
+      "licenses/utfcpp/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "zlib",
+    "licenseFiles": [
+      "licenses/zlib/LICENSE"
+    ],
+    "requiresManualReview": false
+  },
+  {
+    "name": "zvbi",
+    "licenseFiles": [
+      "licenses/zvbi/AUTHORS",
+      "licenses/zvbi/COPYING",
+      "licenses/zvbi/COPYING.md"
+    ],
+    "requiresManualReview": false
+  }
+]

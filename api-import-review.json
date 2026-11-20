@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-05",
+  "profile": "3.7.5-cinearo.1",
+  "slices": [
+    {
+      "slice": "ios-arm64",
+      "sha256": "72e482e1d0634a87c3c937feb3e9b84e1fb53115388930c9d5acc44be3751df5",
+      "uuid": [
+        "UUID:",
+        "6592E72F-58D3-3ADE-A08C-78A3B29388BD"
+      ],
+      "diskImports": [],
+      "freetypeFstatAbsent": true,
+      "metadataImports": [
+        "_fstat",
+        "_fstatat",
+        "_lstat",
+        "_stat"
+      ]
+    },
+    {
+      "slice": "ios-arm64-simulator",
+      "sha256": "856cc627e847fe49136bfdd9e7c210e326be2c3662702aebeec0865e89a4c414",
+      "uuid": [
+        "UUID:",
+        "3A65A90D-B0E4-34D2-8400-9612F9A5E198"
+      ],
+      "diskImports": [],
+      "freetypeFstatAbsent": true,
+      "metadataImports": [
+        "_fstat",
+        "_fstatat",
+        "_lstat",
+        "_stat"
+      ]
+    }
+  ]
+}
